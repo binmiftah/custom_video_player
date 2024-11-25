@@ -1,2 +1,4 @@
 # custom_video_player
- A video player made with vanilla javaScript
+
+<span style="color: blue;">A video player made with vanilla javaScript</span>
+ 
